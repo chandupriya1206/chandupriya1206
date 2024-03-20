@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/chandup95610385" target="blank"><img src="https://img.shields.io/twitter/follow/chandup95610385?logo=twitter&style=for-the-badge" alt="chandup95610385" /></a> </p>
 
-- 🔭 I’m currently working on **IQUED ed-tech website**
+- 🔭 I’m currently working at **Bajaj Auto & Chetak Technology Limited**
 
 - 🌱 I’m currently learning **Full Stack Web development, DSA**
 
