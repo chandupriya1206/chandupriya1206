@@ -1,11 +1,9 @@
 
 
-![MasterHead]([https://img.freepik.com/free-vector/doodle-computer-engineer-stickers-collection_23-2150699572.jpg?size=626&ext=jpg&ga=GA1.1.439253545.1710952504&semt=ais](https://camo.githubusercontent.com/571e1b07bd12a229e4655e0f584330c56076dd3ad02975293617479c29bb1f0f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966))
-
-
 <h1 align="center">Hi 👋, I'm Matavalam Chandu Priya</h1>
 <h3 align="center">A passionate frontend developer and a consistent coder from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/bfe24c7f7db9b843e8602869974fe2d022441bb5583749ae2f84a85983fa52d4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-doodle&psig=AOvVaw2dgtX-8pDOA_hgSAibdMTh&ust=1711038795834000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD5pa-ig4UDFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/571e1b07bd12a229e4655e0f584330c56076dd3ad02975293617479c29bb1f0f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandupriya1206&label=Profile%20views&color=0e75b6&style=flat" alt="chandupriya1206" /> </p>
 
