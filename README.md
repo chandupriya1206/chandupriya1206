@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Matavalam Chandu Priya</h1>
-<h3 align="center">A passionate front-end developer and a  coder from India. Currently doing a direct PhD in singapore in Brain-Computer Interface (BCI/BMI)</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQH2ylNl9FZFQw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1725659834993?e=1742428800&v=beta&t=bJyKkCqk5Gg0JHfZciPB4dwVcg6zzZDnYTcCmIljf3w">
+<h3 align="center">A passionate front-end developer and a  coder from India. Currently doing a direct PhD in Singapore in Brain-Computer Interface (BCI/BMI)</h3>
+<img align="right" alt="about me" width="600" src="https://media.licdn.com/dms/image/v2/D4E12AQH2ylNl9FZFQw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1725659834993?e=1742428800&v=beta&t=bJyKkCqk5Gg0JHfZciPB4dwVcg6zzZDnYTcCmIljf3w">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandupriya1206&label=Profile%20views&color=0e75b6&style=flat" alt="chandupriya1206" /> </p>
