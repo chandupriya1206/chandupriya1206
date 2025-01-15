@@ -1,21 +1,21 @@
 
 
 <h1 align="center">Hi 👋, I'm Matavalam Chandu Priya</h1>
-<h3 align="center">A passionate frontend developer and a  coder from India doing a direct PhD in Singapore in Brain-Computer Interface (BCI/BMI)</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/571e1b07bd12a229e4655e0f584330c56076dd3ad02975293617479c29bb1f0f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
+<h3 align="center">A passionate front-end developer and a  coder from India. Currently doing a direct PhD in singapore in Brain-Computer Interface (BCI/BMI)</h3>
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQH2ylNl9FZFQw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1725659834993?e=1742428800&v=beta&t=bJyKkCqk5Gg0JHfZciPB4dwVcg6zzZDnYTcCmIljf3w">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandupriya1206&label=Profile%20views&color=0e75b6&style=flat" alt="chandupriya1206" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chandup95610385" target="blank"><img src="https://img.shields.io/twitter/follow/chandup95610385?logo=twitter&style=for-the-badge" alt="chandup95610385" /></a> </p>
 
-- 🔭 I worked at **Bajaj Auto & Chetak Technology Limited** as a R\& D Engineer
+- 🔭 I worked at **Bajaj Auto & Chetak Technology Limited** as a R \& D Engineer
 
-- 🌱 I’m learnt **Full Stack Web Development, DSA**
+- 🌱 I learnt **Full Stack Web Development, DSA**
 
 - 👨‍💻 All of my projects are available at [https://chandupriya1206.github.io/Portfolio/](https://chandupriya1206.github.io/Portfolio/)
 
-- 💬 Ask me about **DSA**,**Physiological signals**,**BCI/BMI**, **Neuromarketing**
+- 💬 Ask me about **DSA**, **Physiological signals (ECG,EEG)** , **BCI/BMI** , **Neuromarketing** , **SignalProcessing**
 
 - 📫 How to reach me **chandupriya0506@gmail.com**
 
